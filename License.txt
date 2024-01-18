@@ -1,7 +1,3 @@
 heyyyy that's changed in txt
-<<<<<<< HEAD
 
 //this will cause more conflict
-=======
-now this will cause conflict
->>>>>>> verybad
